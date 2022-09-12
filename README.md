@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/md-asif-siddiqui-157497208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.asif siddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/sid_asif_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sid_asif_md" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asif_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asif_sid" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@asif050md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@asif050md" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
