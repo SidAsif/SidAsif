@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **sharpening my skills**
 
-- 🌱 I’m currently learning **WebDev , DAA**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **open source project**
 
 - 🤝 I’m looking for help with **Web development projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SidAsif](https://github.com/SidAsif)
+- 👨‍💻 All of my projects are available at [https://asifsid.netlify.app/](https://asifsid.netlify.app/)
 
-- 💬 Ask me about **C/C++,DSA**
+- 💬 Ask me about **C/C++,DSA,React etc.**
 
 - 📫 How to reach me **asif050md@gmail.com**
 
